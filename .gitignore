@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+second-me.db
+vault/**/*.md
+!vault/**/*.example.md
